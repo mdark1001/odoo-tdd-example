@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+user_todo_list_access,Acceso general a usuarios,model_oohel_todo_list,group_user_todo_list,1,1,1,1
+user_todo_list_tag_access,Acceso general a usuarios,model_oohel_todo_list_tag,group_user_todo_list,1,1,1,1
+admin_todo_list_access,Acceso general a usuarios,model_oohel_todo_list,group_admin_todo_list,1,1,1,1
+admin_todo_list_tag_access,Acceso general a usuarios,model_oohel_todo_list_tag,group_admin_todo_list,1,1,1,1
